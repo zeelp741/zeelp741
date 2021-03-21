@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a full stack MERN application\n
-🌱 I’m currently learning React \n
-📫 How to reach me: zeelp741@gmail.com
+- 🔭 I’m currently working on a full stack MERN application
+- 🌱 I’m currently learning React 
+- 📫 How to reach me: zeelp741@gmail.com
 
 
 <!--
