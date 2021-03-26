@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi there, I am Zeel 👋
 
 - 🔭 I’m currently working on a full stack MERN application
 - 🌱 I’m currently learning React 
+- 📚 Computer Sceince and Business Administration Student
 - 📫 How to reach me: zeelp741@gmail.com
-
-
 <!--
 **zeelp741/zeelp741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
