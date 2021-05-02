@@ -20,3 +20,13 @@ Here are some ideas to get you started:
 -->
 
 ![Zeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeelp741&theme=algolia&show_icons=true)
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<!-- <a href="website" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a> -->
+<a href="https://www.linkedin.com/in/zeelp2002/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<!-- <a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a> -->
+<a href="mailto:pate1210@mylaurier.ca"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
