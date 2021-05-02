@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ![Zeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeelp741&theme=algolia&show_icons=true)
 
-### Github Repos
+<!--### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zeelp741&repo=PackageTemplate&show_owner=true)](https://github.com/zeelp741/Data-Strucutures)
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zeelp741&repo=PackageTemplate&show_owner=true)](https://github.com/zeelp741/Data-Strucutures)
 
 
 
