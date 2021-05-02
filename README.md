@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zeelp741&repo=PackageTemplate&show_owner=true)](https://github.com/zeelp741/Data-Strucutures)
 
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
