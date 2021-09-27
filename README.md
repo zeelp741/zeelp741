@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Zeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeelp741&theme=algolia&show_icons=true)
+<!-- ![Zeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeelp741&theme=algolia&show_icons=true) -->
 
 <!--### Github Repos
 
