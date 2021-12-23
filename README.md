@@ -1,9 +1,11 @@
 ### Hi there, I am Zeel 👋
+📚 Computer Science and Business Administration Student
 
-- 🔭 I’m currently working on a full stack MERN application
-- 🌱 I’m currently learning React 
-- 📚 Computer Science and Business Administration Student
-- 📫 How to reach me: zeelp741@gmail.com
+🔭 Software Developer at BMO (Bank of Montreal)
+
+🌱 Software Developer at Facedrive 
+
+📫 How to reach me: zeelp741@gmail.com
 <!--
 **zeelp741/zeelp741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
