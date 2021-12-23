@@ -1,9 +1,9 @@
 ### Hi there, I am Zeel 👋
 📚 Computer Science and Business Administration Student
 
-🔭 Software Developer at BMO (Bank of Montreal)
+🔭 Current Software Developer Intern at BMO (Bank of Montreal)
 
-🌱 Software Developer at Facedrive 
+🌱 Previous Software Developer Intern at Facedrive 
 
 
 <!--
